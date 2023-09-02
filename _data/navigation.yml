@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Resume"
+    url: /Resume/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Graduate Projects"
+    url: /Graduate Projects/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Under-graduate Projects"
+    url: /Under-graduate Projects/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Certification From LinkedIn"
+    url: /Certification From LinkedIn/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Achievements"
+    url: /Achievements/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Language"
+    url: /Language/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Hobbies"
+    url: /Hobbies/
